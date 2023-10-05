@@ -1,2 +1,2 @@
-
-+incdir+design
+testbench/top_tb.sv
++incdir+testbench
